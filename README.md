@@ -10,6 +10,8 @@ off of this and absolutely should not use it in production.
 
 =======
 
+Tim Hanson
+
 Seth Shober
 
 David Hasenjaeger
